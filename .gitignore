@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+
+# Generated data
+data/processed/*
+data/interim/*
+
+# Generated reports
+reports/*
+
+# OS files
+.DS_Store
+
+
