@@ -1,7 +1,7 @@
 # Command-Line Dataset Exploration Notes
 
 1. Count the number of records in the 2022 dataset:
-```bash
+
 wc -l data/raw/records_2022.csv
 This command counts how many lines (records) are present in the raw 2022 dataset.
 
