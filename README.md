@@ -77,3 +77,7 @@ This repository may be reused internally by cloning the project, recreating the 
 and running the automated pipeline. Any modifications should be performed in separate
 Git branches and documented via commits and changelog updates.
 
+## Release
+
+Final release: **v1.0**
+
